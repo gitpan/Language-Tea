@@ -1,0 +1,8 @@
+Revision history for Language-Tea
+
+0.02    2007-10-03
+        - Changes in the tests. It seems astyle has different behavior depending on the used platform.
+
+0.01    2007-10-03
+        First version, released on an unsuspecting world.
+
