@@ -30,8 +30,7 @@ if ($printToFile) {
 	print FILE Language::Tea::printClass($class);
         close FILE;
     }
-}
-else {
+}else{
     print Language::Tea::printMainProg($package);
     for my $class ( keys %Language::Tea::Classes ) {
         print Language::Tea::printClass($class);

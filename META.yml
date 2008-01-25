@@ -1,12 +1,10 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         Language-Tea
-version:      0.02
+version:      0.03
 version_from: lib/Language/Tea.pm
 installdirs:  site
 requires:
-    File::Find::Rule:              0
-    File::Slurp:                   0
     IPC::Open2:                    0
     Scalar::Util:                  0
     Symbol:                        0
